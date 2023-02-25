@@ -1,7 +1,9 @@
 # dynamodb
-/**/dynamodb_data/*
+/dynamodb/dynamodb_data/*
 
-
+# minio
+/minio/services/minio/data/*
+/minio/services/minio/export/*
 
 # 共通
 !.gitkeep
